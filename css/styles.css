@@ -1,0 +1,36 @@
+@media print {
+  .label {
+    border: 1px solid #000;
+  }
+}
+.label {
+  display: inline;
+  padding: 0.2em 0.6em;
+  font-size: 75%;
+  font-weight: 700;
+  line-height: 1;
+  color: #fff;
+  text-align: center;
+  white-space: nowrap;
+  vertical-align: baseline;
+  border-radius: 0.25em;
+  margin-left: 8px;
+  margin-top: 10px;
+}
+.label-sv {
+  background-color: #71b280;
+}
+.label-ss {
+  background-color: #f0ad4e;
+}
+.label-intern {
+  background-color: #ed5e5e;
+}
+.label-r {
+  background-color: #165caa;
+}
+.contact-table table td {
+  border: 0px solid;
+  padding-left: 0px;
+  vertical-align: top;
+}
